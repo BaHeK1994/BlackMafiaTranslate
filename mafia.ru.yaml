@@ -308,6 +308,7 @@ Only for full version: '❌ Доступно только в платной ве
 Reply message for kick user: '❌ Для кика игрока нужно ответить на сообщение этого игрока!'
 Reply message for ban user: '❌ Для бана игрока нужно ответить на сообщение этого игрока!'
 Reply message for mute user: '❌ Для мута игрока нужно ответить на сообщение этого игрока!'
+Mention user not found: '❌ Не найден пользователь с таким никнеймом!'
 User is not in game: '❌ Пользователь не в игре!'
 Admin kick user from game: '⚠ Администратор {{ admin }} кикнул {{ user }} из игры'
 Wrong ban time: '❌ Время бана должно быть число!'
