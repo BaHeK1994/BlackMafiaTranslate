@@ -521,6 +521,7 @@ Log joker two players pre: '{{ player }} ({{ role }}) пытается смен�
 Log joker all players pre: '{{ player }} ({{ role }}) пытается сменить роли ВСЕМ'
 Log vote step two: '{{ player }} ({{ role }}) проголосовал за {{ typeVoteTrans }}'
 Log players choice night: 'НОЧЬ! {{ player1 }} ({{ role1 }}) выбрал {{ player2 }} ({{ role2 }}){{ append }}'
+Log players choice night journalist: 'НОЧЬ! {{ player1 }} ({{ role1 }}) выбрал {{ player2 }} ({{ role2 }}) и {{ player3 }} ({{ role3 }})'
 Log append kom kill: ' - {{ ROLE_3 }} стреляет!'
 Log append bullet: ' - применена бронебойная пуля!'
 Log players choice day: 'ДЕНЬ! {{ player1 }} ({{ role1 }}) проголосовал за {{ player2 }} ({{ role2 }})'

@@ -521,6 +521,7 @@ Log joker two players pre: '{{ player }} ({{ role }}) փորձում է փոխե
 Log joker all players pre: '{{ player }} ({{ role }}) փորձում է փոխել դերերը ԲՈԼՈՐԻՆ'
 Log vote step two: '{{ player }} ({{ role }}) քվեարկեց {{ typeVoteTrans }}'
 Log players choice night: 'Գիշեր! {{ player1 }} ({{ role1 }}) ընտրեց {{ player2 }} ({{ role2 }}){{ append }}'
+Log players choice night journalist: 'НОЧЬ! {{ player1 }} ({{ role1 }}) выбрал {{ player2 }} ({{ role2 }}) и {{ player3 }} ({{ role3 }})'
 Log append kom kill: ' - {{ ROLE_3 }} կրակեց!'
 Log append bullet: ' - կիրառվեց զինված պուլա!'
 Log players choice day: 'ՕՐ! {{ player1 }} ({{ role1 }}) քվեարկեց {{ player2 }} ({{ role2 }})'
