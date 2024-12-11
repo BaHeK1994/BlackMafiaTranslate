@@ -496,7 +496,7 @@ Notify about night head text: 'Оповещение о действиях игр
 Protect content head text: 'Защита контента - запретить игрокам копировать игровые личные сообщения и делать скриншоты?'
 Night boom head text: 'При убийстве <b>{{ role }}</b> ночью, он взрывается и убивает всех, кто к нему пришел'
 Anarchy setting head text: 'Режим АНАРХИЯ, подробности /anarchy'
-Infected setting head text: 'Режим ЗАРАЖЕНИЕ, подробности /infected'
+Infected setting head text: 'Режим ЗАРАЖЕНИЕ, подробности /infection'
 Joker setting head text: '1 раз за игру <b>{{ role }}</b> сможет перемешать все роли игрокам, если не было ни одной смены ролей'
 You are sure reset settings: 'Вы уверены, что хотите сбросить все настройки по-умолчанию?{{ topicInfo }} <b>Это действие невозможно отменить!</b> (чат {{ chat }})'
 Topic info: ' (настройки топика останутся)'
