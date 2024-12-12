@@ -322,6 +322,7 @@ User successfully payment subscribe: '✅ Օգտատեր {{ user }} երկարա
 You successfully payment subscribe: '✅ Դուք հաջողությամբ կատարեցիք վճարովի բոտի ակտիվացում այս չատի համար {{ chat }} 30 օրով'
 Please enter your email: '⚠️ Կխնդրեմ գրել էլ. հասցե` անդորրագիրն ուղարկելու համար'
 Cancel enter your email: ', нажмите /cancel, для отмены ввода'
+Success canceled: '✅ Действие отменено'
 Only for full version: '❌ Հասանելի է միայն բոտի վճարովի ծառայության ժամանակ!'
 Reply message for kick user: '❌ Խաղացողին հեռացնելու համար անհրաժեշտ է պատասխանել այդ խաղացողների հաղորդագրությանը:'
 Reply message for ban user: '❌ Խաղացողին արգելելու համար անհրաժեշտ է պատասխանել այդ խաղացողների հաղորդագրությանը:'

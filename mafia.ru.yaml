@@ -322,6 +322,7 @@ User successfully payment subscribe: '✅ Пользователь {{ user }} п
 You successfully payment subscribe: '✅ Вы успешно оплатили подписку в чате {{ chat }} на 30 дней'
 Please enter your email: '⚠ Пожалуйста, укажите e-mail, для отправки чека'
 Cancel enter your email: ', нажмите /cancel, для отмены ввода'
+Success canceled: '✅ Действие отменено'
 Only for full version: '❌ Доступно только в платной версии мафии!'
 Reply message for kick user: '❌ Для кика игрока нужно ответить на сообщение этого игрока!'
 Reply message for ban user: '❌ Для бана игрока нужно ответить на сообщение этого игрока!'
