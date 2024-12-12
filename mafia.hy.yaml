@@ -321,6 +321,7 @@ Cannot money in balance for subscribe: '❌ Չկան բավարար միջոցն
 User successfully payment subscribe: '✅ Օգտատեր {{ user }} երկարացրեց վճարը 30 օրով!\nДата окончания подписки: {{ endTime }} (<b>по МСК</b>)\n\n#оплата #подписка'
 You successfully payment subscribe: '✅ Դուք հաջողությամբ կատարեցիք վճարովի բոտի ակտիվացում այս չատի համար {{ chat }} 30 օրով'
 Please enter your email: '⚠️ Կխնդրեմ գրել էլ. հասցե` անդորրագիրն ուղարկելու համար'
+Cancel enter your email: ', нажмите /cancel, для отмены ввода'
 Only for full version: '❌ Հասանելի է միայն բոտի վճարովի ծառայության ժամանակ!'
 Reply message for kick user: '❌ Խաղացողին հեռացնելու համար անհրաժեշտ է պատասխանել այդ խաղացողների հաղորդագրությանը:'
 Reply message for ban user: '❌ Խաղացողին արգելելու համար անհրաժեշտ է պատասխանել այդ խաղացողների հաղորդագրությանը:'
