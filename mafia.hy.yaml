@@ -328,6 +328,7 @@ Reply message for kick user: '❌ Խաղացողին հեռացնելու համ
 Reply message for ban user: '❌ Խաղացողին արգելելու համար անհրաժեշտ է պատասխանել այդ խաղացողների հաղորդագրությանը:'
 Reply message for mute user: '❌ Խաղացողին լռեցնելու համար անհրաժեշտ է պատասխանել այդ խաղացողների հաղորդագրությանը:'
 Reply message for history user: '❌ Для истории игрока нужно ответить на сообщение этого игрока!'
+Reply message for ids user: '❌ Для поиска ID игрока нужно ответить на сообщение, где он отмечен!'
 Mention user not found: '❌ Չի գտնվել նման անունով օգտատեր!'
 User is not in game: '❌ Օգտատերը չի մասնակցում խաղին:'
 Admin kick user from game: '⚠️ Ադմինիստրատոր {{ admin }} հեռացրեց {{ user }}-ին խաղից'

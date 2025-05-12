@@ -328,6 +328,7 @@ Reply message for kick user: '❌ Для кика игрока нужно отв
 Reply message for ban user: '❌ Для бана игрока нужно ответить на сообщение этого игрока!'
 Reply message for mute user: '❌ Для мута игрока нужно ответить на сообщение этого игрока!'
 Reply message for history user: '❌ Для истории игрока нужно ответить на сообщение этого игрока!'
+Reply message for ids user: '❌ Для поиска ID игрока нужно ответить на сообщение, где он отмечен!'
 Mention user not found: '❌ Не найден пользователь с таким никнеймом!'
 User is not in game: '❌ Пользователь не в игре!'
 Admin kick user from game: '⚠ Администратор {{ admin }} кикнул {{ user }} из игры'
