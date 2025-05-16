@@ -320,6 +320,7 @@ This chat cannot to pay subscribe: '❌ Այս չատում պետք չէ երկ
 Cannot money in balance for subscribe: '❌ Չկան բավարար միջոցներ վճարովի բոտը գնելու համար'
 User successfully payment subscribe: '✅ Օգտատեր {{ user }} երկարացրեց վճարը 30 օրով!\nբաժանորդագրման  ավարը: {{ endTime }} (<b>по МСК</b>)\n\n#վճարում #բաժանորդագրում'
 You successfully payment subscribe: '✅ Դուք հաջողությամբ կատարեցիք վճարովի բոտի ակտիվացում այս չատի համար {{ chat }} 30 օրով'
+You need to payment: '⚠ В вашем чате <b>скоро закончится</b> подписка на полную версию мафии! Продлите подписку по команде /pay@BlackMafoiz_bot, чтобы продолжить играть в полную версию игры\nДата окончания подписки: <b><u>{{ endTime }}</u></b> (<b>по МСК</b>)\n\n#подписка'
 Please enter your email: '⚠️ Կխնդրեմ գրել էլ. հասցե` անդորրագիրն ուղարկելու համար'
 Cancel enter your email: ', Նշեք /cancel, ներմուծումը դադարեցնելու համար '
 Success canceled: '✅ Գործողությունը չեղարկվեց'
